@@ -1,2 +1,2 @@
-# Udacity---course---js-and-the-Dom
+# Udacity-course-JS-and-the-Dom
 JS and the DOM - sample site
